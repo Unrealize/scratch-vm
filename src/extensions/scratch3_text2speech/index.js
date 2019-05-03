@@ -407,7 +407,7 @@ class Scratch3Text2SpeechBlocks {
             id: 'text2speech',
             name: formatMessage({
                 id: 'text2speech.categoryName',
-                default: 'Text to Speech',
+                default: 'Text 2 Speech',
                 description: 'Name of the Text to Speech extension.'
             }),
             blockIconURI: blockIconURI,
